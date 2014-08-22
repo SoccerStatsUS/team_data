@@ -7,12 +7,12 @@ These are usually sourced from fan sites or other reports about a specific team.
 
 
 Current teams with data:
- - Bethlehem Steel
- - Dallas Sidekicks
+ - Bethlehem Steel [bethlehemsteelsoccer.org/](//http://bethlehemsteelsoccer.org/)
+ - Dallas Sidekicks [www.kicksfan.com](http://kicksfan.com)
 
 
-Other pages?
+Other pages
  - revsfan
  - chicago fire fan
  - sounders
- - timbers
+ - Charleston Battery [charlestonbattery.com]
